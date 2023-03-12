@@ -14,11 +14,11 @@ Original Dataset can be found <a href="https://data.world/quanticdata/mental-hea
 #### &#10148;Project Status: `Completed` [&#10003;]
 
 ## Project Scope & Objective:
-#### &#10064;  Objective: 
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+#### &#10064;Objective: 
+> *The purpose of this project would be analysing the frequency and attitude towards mental health within the workspace. We can sift through the data taken from the survey and get an understanding of the key features per person/country from a collective model or statistical overview. This can help us analize trends or changes that need to take place in order to better people's experience and attitude towards mental health in the workspace.*
 
 #### &#10064;Dataset Type:
-* Survey
+* Survey related. Data gathered from a target audience about mental health in the workplace for research purposes.
 
 #### &#10064;Methods Used
 * Inferential Statistics
@@ -29,58 +29,41 @@ The purpose of this project is ________. (Describe the main goals of the project
 * Python
 * Pandas 
 * Jupyter notebook
-* Matplotib
+* Matplotlib
 * Seaborn 
 
 #### &#10064;Inspiration
-* Inspiration to conduct this project was based on an article based on Mental Health at work from the WHO website.
-** This led me to dig deeper into the data on mental health and its affects in the workplace
-article can be found <a href="https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work">HERE</a>
+> *Inspiration to conduct this project was based on an article based on Mental Health at work from the WHO website.
+This led me to dig deeper into the data on mental health and its affects in the workplace
+article can be found <a href="https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work">HERE</a>*
 
 ## &#10064;Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+A survey was given to people world wide to gather information relating to the frequency and attitude towards mental illness in the workplace. The data gathered was based off cerain questionaires that could be researched in order to measure and draw a deeper understsanding. By the use of visualisations I can get a overview of the data gathered and can therefore begin exploratory data analysis in order to draw conclusions and possible resolutions.
 
-## &#10064;Needs of this project
+## &#10064;Project Scope
 
-- frontend developers
-- data exploration/descriptive statistics
-- data processing/cleaning
-- statistical modeling
-- writeup/reporting
-- etc. (be as specific as possible)
+- Data reading
+- Data clean up
+- Data preperation
+- Data visualisations
+- EDA on findings
 
-## &#10064;Getting Started
+## &#10064;Contributors Info:
+> *Anyone can use the dataset to create further data analysis|visualistaions and to look at different views and scope of dataset
 
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
-    
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
-
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
-
-5. Follow setup [instructions](Link to file)
-
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
+- Original Dataset can be found <a href="https://data.world/quanticdata/mental-health-in-tech-survey/workspace/file?filename=survey.csv">HERE</a> 
+- Raw Data is can be found within the Jupyter notebook for the project
+- Python modules required:
+   * numpy
+   * pandas
+   * seaborn
+   * wordcloud
+   * datetime
+   * maplotlib
 
 
-## Contributing DSWG Members
 
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)**
+## Featured:
+* Jupyter Notebook- <a href="https://github.com/warsab/EDA-Mental_Health_Survey_2014/blob/main/Mental_Health_Tech.ipynb">[Mental_Health_Tech]</a> 
+* EDA pdf- <a href="https://github.com/warsab/EDA-Mental_Health_Survey_2014/blob/main/Mental%20Health%20EDA%202014%20SURVEY.pdf">[Mental_Health_EDA1-2014_Survey]</a>
 
-#### Other Members:
-
-|Name     |  Slack Handle   | 
-|---------|-----------------|
-|[Full Name](https://github.com/[github handle])| @johnDoe        |
-|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
-
-## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our slack channel is `#datasci-projectname`
-* Feel free to contact team leads with any questions or if you are interested in contributing!
